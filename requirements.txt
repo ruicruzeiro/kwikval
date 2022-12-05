@@ -1,0 +1,3 @@
+unidecode
+selenium
+undetected-chromedriver
